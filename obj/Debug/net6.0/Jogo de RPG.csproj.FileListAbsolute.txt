@@ -1,0 +1,15 @@
+C:\Users\miza-\OneDrive\Documentos\Jogo de RPG\bin\Debug\net6.0\Jogo de RPG.exe
+C:\Users\miza-\OneDrive\Documentos\Jogo de RPG\bin\Debug\net6.0\Jogo de RPG.deps.json
+C:\Users\miza-\OneDrive\Documentos\Jogo de RPG\bin\Debug\net6.0\Jogo de RPG.runtimeconfig.json
+C:\Users\miza-\OneDrive\Documentos\Jogo de RPG\bin\Debug\net6.0\Jogo de RPG.dll
+C:\Users\miza-\OneDrive\Documentos\Jogo de RPG\bin\Debug\net6.0\ref\Jogo de RPG.dll
+C:\Users\miza-\OneDrive\Documentos\Jogo de RPG\bin\Debug\net6.0\Jogo de RPG.pdb
+C:\Users\miza-\OneDrive\Documentos\Jogo de RPG\obj\Debug\net6.0\Jogo de RPG.csproj.AssemblyReference.cache
+C:\Users\miza-\OneDrive\Documentos\Jogo de RPG\obj\Debug\net6.0\Jogo de RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miza-\OneDrive\Documentos\Jogo de RPG\obj\Debug\net6.0\Jogo de RPG.AssemblyInfoInputs.cache
+C:\Users\miza-\OneDrive\Documentos\Jogo de RPG\obj\Debug\net6.0\Jogo de RPG.AssemblyInfo.cs
+C:\Users\miza-\OneDrive\Documentos\Jogo de RPG\obj\Debug\net6.0\Jogo de RPG.csproj.CoreCompileInputs.cache
+C:\Users\miza-\OneDrive\Documentos\Jogo de RPG\obj\Debug\net6.0\Jogo de RPG.dll
+C:\Users\miza-\OneDrive\Documentos\Jogo de RPG\obj\Debug\net6.0\ref\Jogo de RPG.dll
+C:\Users\miza-\OneDrive\Documentos\Jogo de RPG\obj\Debug\net6.0\Jogo de RPG.pdb
+C:\Users\miza-\OneDrive\Documentos\Jogo de RPG\obj\Debug\net6.0\Jogo de RPG.genruntimeconfig.cache
